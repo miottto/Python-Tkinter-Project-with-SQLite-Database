@@ -1,5 +1,5 @@
 books.db 
-__init__
+__init__.pyc
 __pycache__/
 *.pyc
 *.pyo
