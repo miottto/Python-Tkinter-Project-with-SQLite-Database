@@ -1,8 +1,7 @@
-books.db 
-setup.py
-__init__.py
 __pycache__/
+.vscode/
+
+books.db
 *.pyc
 *.pyo
 *.pyd
-**/__init__.py
